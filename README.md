@@ -41,7 +41,7 @@
 <!----------------------------------- Social Media Links Section ------------------------------------>
 
 <h2><i>Let's Connect</i></h2>
-<p align="left" >
+
 
   <a href="https://www.youtube.com/@Djangotips" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="djangotips" height="30" width="40" /></a>
 
@@ -49,6 +49,6 @@
 
 
 
-</p>
+
 
 
