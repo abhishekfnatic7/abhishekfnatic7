@@ -5,7 +5,7 @@
  
 </div>
 
-<!----------------------------------- Tech Stack Section ------------------------------------>
+
 <h2>Tech Stack</h2>
 <h3>Languages</h3>
 <p>
@@ -43,7 +43,11 @@
 <h2><i>Let's Connect</i></h2>
 <p align="left" >
 
-  <a href="https://www.youtube.com/@Djangotips" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="geekyshow1" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/@Djangotips" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="djangotips" height="30" width="40" /></a>
+
+ <a href="https://www.linkedin.com/in/abhisheksharma10207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="linkedin" height="30" width="40" /></a>
+
+
 
 </p>
 
