@@ -2,11 +2,7 @@
 <div>
  
   <h3>Hi, I'm Web Developer</h3>
-  <p>I am Full Stack Web and Android App Developer. I am also an Educator. I teach on
-    <a href="https://www.youtube.com/user/GeekyShow1">
-        <img align="center" src="https://img.shields.io/badge/GeekyShows Youtube Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="https://www.youtube.com/user/GeekyShow1" />
-    </a> having 400k+ Subscribers.
-  </P> 
+ 
 </div>
 
 <!----------------------------------- Tech Stack Section ------------------------------------>
