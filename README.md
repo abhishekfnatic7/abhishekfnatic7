@@ -23,7 +23,7 @@
 </p>
 <h3>Backend Framework and Lib</h3>
 <p>
- 
+    <img src="https://img.shields.io/badge/Angular JS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" />
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="django" />
 </p>
 <h3>Database</h3>
