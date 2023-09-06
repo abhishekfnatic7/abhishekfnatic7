@@ -29,7 +29,6 @@
 <h3>Database</h3>
 <p>
     <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
     <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite" />
   <img src="https://img.shields.io/badge/PostgreSql-07405E?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" />
 </p>
