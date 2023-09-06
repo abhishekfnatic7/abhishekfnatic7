@@ -19,13 +19,13 @@
 <p>
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind" />
-    <img src="https://img.shields.io/badge/Angular JS-20232A?style=for-the-badge&logo=angular&logoColor=61DAFB" alt="angularjs" />
+    <img src="https://img.shields.io/badge/Angular JS-20232A?style=for-the-badge&logo=angular&logoColor=red" alt="angularjs" />
 </p>
 <h3>Backend Framework and Lib</h3>
-<p>  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="django" />
-    <img src="https://img.shields.io/badge/Angular JS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="js" />
+ <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="django" />
+   
   
-</p>
+
 <h3>Database</h3>
 <p>
     <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />
